@@ -1,7 +1,5 @@
 # WhatsApp-Direct-Message
 
-[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](http://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](http://forthebadge.com)
 
 A simple app which saves you the effort of saving numbers as contacts if you wish to contact them on WhatsApp.
 
